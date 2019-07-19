@@ -1,0 +1,13 @@
+C:\Github\Tutorial-test\bin\Debug\LabelPrint.exe
+C:\Github\Tutorial-test\bin\Debug\LabelPrint.pdb
+C:\Github\Tutorial-test\bin\Debug\Seagull.BarTender.Print.dll
+C:\Github\Tutorial-test\bin\Debug\Seagull.Services.PrintScheduler.dll
+C:\Github\Tutorial-test\bin\Debug\Seagull.Services.PrintScheduler.Contracts.dll
+C:\Github\Tutorial-test\obj\x64\Debug\LabelPrint.csprojAssemblyReference.cache
+C:\Github\Tutorial-test\obj\x64\Debug\LabelPrint.LabelPrint.resources
+C:\Github\Tutorial-test\obj\x64\Debug\LabelPrint.Properties.Resources.resources
+C:\Github\Tutorial-test\obj\x64\Debug\LabelPrint.csproj.GenerateResource.cache
+C:\Github\Tutorial-test\obj\x64\Debug\LabelPrint.csproj.CoreCompileInputs.cache
+C:\Github\Tutorial-test\obj\x64\Debug\LabelPrint.csproj.CopyComplete
+C:\Github\Tutorial-test\obj\x64\Debug\LabelPrint.exe
+C:\Github\Tutorial-test\obj\x64\Debug\LabelPrint.pdb
